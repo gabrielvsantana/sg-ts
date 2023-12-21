@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center"><img src="./diagrams/09/ts-1.svg" /></div><br/><br/><br/>
-<div align="center"><img src="./diagrams/09/ts-2.svg" /></div><br/><br/><br/>
-<div align="center"><img src="./diagrams/09/ts-3.svg" /></div><br/><br/><br/>
-<div align="center"><img src="./diagrams/09/ts-4.svg" /></div><br/><br/><br/>
+<div align="center"><img src="../../diagrams/09/ts-1.svg" /></div><br/><br/><br/>
+<div align="center"><img src="../../diagrams/09/ts-2.svg" /></div><br/><br/><br/>
+<div align="center"><img src="../../diagrams/09/ts-3.svg" /></div><br/><br/><br/>
+<div align="center"><img src="../../diagrams/09/ts-4.svg" /></div><br/><br/><br/>
