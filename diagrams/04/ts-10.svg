@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="462.71997"
+   height="253.44"
+   viewBox="0 0 462.71997 253.44"
+   sodipodi:docname="ts-10.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1445.8333 V 791.62354 H 0 Z"
+         transform="scale(0.33475507)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-118.48438,-23)"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475507,0,0,0.33475507,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-50.203125,-62)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475507,0,0,0.33475507,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-42.515625,-122)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475507,0,0,0.33475507,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-7.375,-171)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-82.15625,-193)"
+         clip-rule="evenodd"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475507,0,0,0.33475507,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path15" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-2.859375,-231)"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17">
+      <path
+         d="M 0,0 H 1445.8333 V 782.66174 H 0 Z"
+         transform="matrix(0.33475173,0,0,0.33475173,-100.0625,-253)"
+         clip-rule="evenodd"
+         id="path17" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="462.71997"
+       height="253.44"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 484 V 265 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95592274)"
+       clip-path="url(#clipPath2)" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,113.26304,21.986442)"
+       clip-path="url(#clipPath3)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 17.332031 24 37.347656 50.695312 64.042969 77.390625 90.738281 97.40625 104.07422 118.73438 125.40234 138.29297 151.64062 166.30078 179.64844 192.99609 206.34375 215.68359 222.35156 237.01172"
+         y="0"
+         sodipodi:role="line"
+         id="tspan2">Classes in Typescript</tspan></text>
+    <path
+       id="path4"
+       d="M 1,30 H 481 V 80 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95592274,0,0,0.95592274,0.47796137,0.47796137)"
+       clip-path="url(#clipPath5)" />
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,47.990788,59.267801)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.335938 14.334961 24.345703 29.34668 34.347656 44.358398 54.369141 64.379883 69.380859 79.391602 89.402344 95.396484 100.39746 109.39746 119.4082 134.40234 144.41309 149.41406 159.4248 174.41895 184.42969 194.44043 204.45117 209.45215 214.45312 224.46387 229.46484 234.46582 244.47656 254.4873 259.48828 269.49902 274.5 284.51074 294.52148 304.53223 309.5332 314.53418 324.54492 334.55566 343.55566 348.55664 352.55566 362.56641 372.57715"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Tie together some amount of data and functions</tspan></text>
+    <path
+       id="path7"
+       d="m 1,90 h 480 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95592274,0,0,0.95592274,0.47796137,0.47796137)"
+       clip-path="url(#clipPath8)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,40.642058,116.62374)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.999023 16.998047 27.008789 36.008789 45.008789 55.019531 64.019531 69.020508 79.03125 85.025391 95.036133 100.03711 110.04785 115.04883 118.48535 123.48633 133.49707 148.49121 158.50195 162.50098 172.51172 177.5127 187.52344 190.95996 195.96094 205.97168 211.96582 216.9668 220.40332 230.41406 234.41309 244.42383 254.43457 264.44531 270.43945 274.43848 284.44922 289.4502 292.88672 297.8877 302.88867 312.89941 318.89355 323.89453 333.90527 343.91602 348.91699 358.92773 368.93848 372.9375 382.94824 391.94824"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">Classes are a 'template' or 'blueprint' for an object</tspan></text>
+    <path
+       id="path10"
+       d="m 1,150 h 480 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95592274,0,0,0.95592274,0.47796137,0.47796137)"
+       clip-path="url(#clipPath11)" />
+    <text
+       id="text11"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,7.0500006,163.46442)"
+       clip-path="url(#clipPath12)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.005859 22.016602 31.016602 41.027344 46.02832 56.039062 66.049805 70.048828 80.05957 89.05957 94.060547 99.061523 105.05566 109.05469 119.06543 128.06543 133.06641 143.07715 153.08789 162.08789 172.09863 178.09277 183.09375 196.09277 206.10352 211.10449 220.10449 226.09863 236.10938 246.12012 251.12109 261.13184 266.13281 276.14355 285.14355 289.14258 299.15332 309.16406 314.16504 324.17578 329.17676 338.17676 342.17578 352.18652 361.18652 370.18652 375.1875 388.18652 392.18555 396.18457 400.18359 405.18457 415.19531 425.20605 434.20605 444.2168 449.21777 459.22852 463.22754"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">Each object (instance) we create using a class will have all</tspan></text>
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,78.535811,184.49493)"
+       clip-path="url(#clipPath13)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.0009766 15.011719 25.022461 30.023438 40.03418 46.02832 56.039062 66.049805 76.060547 82.054688 87.055664 91.054688 101.06543 110.06543 115.06641 125.57812 130.5791 135.58008 145.59082 155.60156 164.60156 169.60254 173.60156 183.6123 193.62305 202.62305 207.62402 217.63477 222.63574 227.63672 232.6377 242.64844 252.65918 257.66016 266.66016 270.65918 280.66992 289.66992 298.66992 308.68066"
+         y="0"
+         sodipodi:role="line"
+         id="tspan12">the properties + functions of the classes</tspan></text>
+    <path
+       id="path14"
+       d="m 1,210 h 480 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95592274,0,0,0.95592274,0.47796137,0.47796137)"
+       clip-path="url(#clipPath15)" />
+    <text
+       id="text15"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,2.7333689,220.82036)"
+       clip-path="url(#clipPath16)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.005859 22.016602 31.016602 41.027344 46.02832 50.027344 60.038086 69.038086 74.039062 84.049805 94.060547 103.06055 113.07129 118.07227 122.07129 131.07129 136.07227 145.07227 155.08301 165.09375 175.10449 181.09863 191.10938 196.11035 206.12109 211.12207 217.11621 222.11719 235.11621 245.12695 250.12793 259.12793 265.12207 275.13281 285.14355 290.14453 300.15527 305.15625 314.15625 324.16699 334.17773 344.18848 350.18262 360.19336 365.19434 375.20508 380.20605 384.20508 394.21582 403.21582 408.2168 418.22754 428.23828 437.23828 447.24902 456.24902 461.25 466.25098"
+         y="0"
+         sodipodi:role="line"
+         id="tspan15">Each instance is separate - we create separate instances to</tspan></text>
+    <text
+       id="text16"
+       xml:space="preserve"
+       transform="matrix(0.95593228,0,0,0.95593228,95.652974,241.85087)"
+       clip-path="url(#clipPath17)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.9941406 16.004883 26.015625 32.009766 42.020508 51.020508 61.03125 71.041992 76.042969 81.043945 91.054688 95.053711 99.738281 104.73926 114.75 120.74414 130.75488 140.76562 145.7666 150.76758 159.76758 169.77832 179.78906 183.78809 193.79883 202.79883 207.7998 217.81055 222.81152 227.8125 237.82324 242.82422 247.8252 257.83594 261.83496 271.8457"
+         y="0"
+         sodipodi:role="line"
+         id="tspan16">represent different copies of a thing</tspan></text>
+  </g>
+</svg>

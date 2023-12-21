@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="309.44"
+   height="225.27998"
+   viewBox="0 0 309.44 225.27998"
+   sodipodi:docname="ts-1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 966.66656 V 704.11517 H 0 Z"
+         transform="scale(0.33517244)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33517244,0,0,0.33517244,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33517244,0,0,0.33517244,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33517244,0,0,0.33517244,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33516909,0,0,0.33516909,-45.281251,-48)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33517244,0,0,0.33517244,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33516909,0,0,0.33516909,-33.09375,-187)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 966.66656 V 698.14807 H 0 Z"
+         transform="matrix(0.33516909,0,0,0.33516909,-45.375,-210)"
+         clip-rule="evenodd"
+         id="path13" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="309.44"
+       height="225.27998"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 324 V 236 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95473241)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 161,81 v 63.63"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95473241,0,0,0.95473241,0.4773662,0.4773662)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="m 161,149.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95473241,0,0,0.95473241,0.4773662,0.4773662)"
+       clip-path="url(#clipPath6)" />
+    <path
+       id="path7"
+       d="M 1,1 H 321 V 81 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95473241,0,0,0.95473241,0.4773662,0.4773662)"
+       clip-path="url(#clipPath8)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95474194,0,0,0.95474194,43.231909,45.827613)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:19px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.721191 24.288086 34.85498 45.421875 51.749023 57.027832 70.749023 81.315918 92.921875 104.52783 115.09473 120.37354 131.46924 136.74805 146.95312 157.52002 169.12598 179.69287 190.25977 200.82666 208.2207 213.49951 225.10547"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">React/Redux + Typescript</tspan></text>
+    <path
+       id="path10"
+       d="m 1,151 h 320 v 80 H 1 Z"
+       style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95473241,0,0,0.95473241,0.4773662,0.4773662)"
+       clip-path="url(#clipPath11)" />
+    <text
+       id="text11"
+       xml:space="preserve"
+       transform="matrix(0.95474194,0,0,0.95474194,31.595991,178.53674)"
+       clip-path="url(#clipPath12)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:19px;font-family:Helvetica;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.2788086 9.796875 26.690918 31.969727 43.575684 55.181641 60.460449 72.066406 83.672363 88.951172 95.27832 106.88428 112.16309 122.72998 133.29688 143.86377 155.46973 172.36377 182.93066 188.20947 198.77637 210.38232 221.98828 227.26709 237.83398 245.22803"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">I'm going to assume you are</tspan></text>
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(0.95474194,0,0,0.95474194,43.321416,200.49581)"
+       clip-path="url(#clipPath13)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:19px;font-family:Helvetica;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.3271484 16.894043 33.788086 39.066895 44.345703 49.624512 60.191406 67.585449 72.864258 87.643066 92.921875 99.249023 110.85498 116.13379 129.85498 140.42188 150.98877 161.55566 167.88281 173.16162 186.88281 197.44971 209.05566 220.66162"
+         y="0"
+         sodipodi:role="line"
+         id="tspan12">familiar with React/Redux</tspan></text>
+  </g>
+</svg>

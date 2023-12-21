@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="396.16"
+   height="146.56"
+   viewBox="0 0 396.16 146.56"
+   sodipodi:docname="ts-8.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1237.4999 V 457.33694 H 0 Z"
+         transform="scale(0.33454547)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1237.4999 V 451.35867 H 0 Z"
+         transform="matrix(0.33454547,0,0,0.33454547,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1237.4999 V 451.35867 H 0 Z"
+         transform="matrix(0.33454211,0,0,0.33454211,-48.578125,-105)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1237.4999 V 451.35867 H 0 Z"
+         transform="matrix(0.33454211,0,0,0.33454211,-64.265625,-30)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="396.16"
+       height="146.56"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 414 V 153 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95652166)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,39 H 411 V 149 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95652166,0,0,0.95652166,0.47826082,0.47826082)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95653126,0,0,0.95653126,46.466495,100.43578)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:32px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 16 33.796875 51.59375 69.390625 78.28125 94.28125 101.39062 117.39062 135.1875 152.98438 160.09375 176.09375 184.98438 202.78125 220.57812 227.6875 245.48438 254.375 270.375 288.17188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">code.visualstudio.com</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95653126,0,0,0.95653126,61.472079,28.695938)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:32px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 21.34375 42.6875 65.796875 85.34375 104.89062 122.6875 131.57812 154.6875 174.23438 199.125 218.67188 227.5625 247.10938 264.90625"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">VSCode Download</tspan></text>
+  </g>
+</svg>

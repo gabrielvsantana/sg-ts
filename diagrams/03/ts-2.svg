@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="501.44"
+   height="129.28"
+   viewBox="0 0 501.44 129.28"
+   sodipodi:docname="ts-2.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1566.6665 V 403.62592 H 0 Z"
+         transform="scale(0.33446811)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1566.6665 V 400.63611 H 0 Z"
+         transform="matrix(0.33446811,0,0,0.33446811,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1566.6665 V 400.63611 H 0 Z"
+         transform="matrix(0.33446475,0,0,0.33446475,-20.484375,-60)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1566.6665 V 400.63611 H 0 Z"
+         transform="matrix(0.33446475,0,0,0.33446475,-354.78125,-60)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1566.6665 V 400.63611 H 0 Z"
+         transform="matrix(0.33446475,0,0,0.33446475,-404.14063,-60)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1566.6665 V 400.63611 H 0 Z"
+         transform="matrix(0.33446475,0,0,0.33446475,-80.921876,-89.000001)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="501.44"
+       height="129.28"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 524 V 135 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.9567429)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 521.01001 V 131 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.9567429,0,0,0.9567429,0.47837145,0.47837145)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.9567525,0,0,0.9567525,19.598477,57.40515)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.890625 26.238281 40.898438 54.246094 60.914062 74.261719 88.921875 103.58203 118.24219 126.23438 139.58203 147.57422 154.24219 168.90234 183.5625 196.91016 203.57812 212.91797 226.26562 239.61328 247.60547 256.94531 263.61328 276.96094 284.95312 291.62109 299.61328 314.27344 327.62109"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Type annotations restrict the </tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.9567525,0,0,0.9567525,339.43785,57.40515)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.9921875 21.339844 36"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">type</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="matrix(0.9567525,0,0,0.9567525,386.66256,57.40515)"
+       clip-path="url(#clipPath7)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.6679688 21.328125 29.320312 35.988281 49.335938 62.683594 69.351562 84.011719"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6"> of value</tspan></text>
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.9567525,0,0,0.9567525,77.422207,85.150973)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.9921875 22.652344 36 43.992188 50.660156 69.328125 82.675781 89.34375 102.69141 116.03906 130.69922 137.36719 150.71484 164.0625 177.41016 184.07812 198.73828 213.39844 220.06641 228.05859 242.71875 249.38672 262.73438 269.40234 282.75 296.09766 305.4375 312.10547 325.45312 340.11328 346.78125"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">that we can assign to a variable</tspan></text>
+  </g>
+</svg>

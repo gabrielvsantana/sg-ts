@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="473.28"
+   height="158.72"
+   viewBox="0 0 473.28 158.72"
+   sodipodi:docname="ts-1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1479.1666 V 494.05362 H 0 Z"
+         transform="scale(0.33397184)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1479.1666 V 491.05936 H 0 Z"
+         transform="matrix(0.33397184,0,0,0.33397184,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1479.1666 V 491.05936 H 0 Z"
+         transform="matrix(0.3339685,0,0,0.3339685,-17.125,-73.999999)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1479.1666 V 491.05936 H 0 Z"
+         transform="matrix(0.3339685,0,0,0.3339685,-94.421875,-107)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="473.28"
+       height="158.72"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 494 V 165 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95816457)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,1 H 491 V 161 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95816457,0,0,0.95816457,0.47908228,0.47908228)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95817417,0,0,0.95817417,16.408733,70.904888)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:27px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 22.491211 37.507324 51.007324 66.023438 73.524902 88.541016 96.04248 111.05859 126.07471 133.57617 153.07471 168.09082 177.08203 190.58203 198.0835 207.07471 222.09082 237.10693 252.12305 267.13916 280.63916 288.14062 295.64209 303.14355 318.15967 325.66113 333.1626 348.17871 355.68018 369.18018 384.19629 391.69775 405.19775 420.21387 442.70508"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Make a network request to fetch some</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95817417,0,0,0.95817417,90.472602,102.52464)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:27px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.5 31.508789 52.510254 72.008789 79.510254 94.526367 109.54248 124.55859 132.06006 147.07617 156.06738 162.06592 177.08203 184.5835 192.08496 199.58643 214.60254 229.61865 237.12012 246.11133 261.12744 274.62744 289.64355 295.64209"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">JSON and print the result</tspan></text>
+  </g>
+</svg>

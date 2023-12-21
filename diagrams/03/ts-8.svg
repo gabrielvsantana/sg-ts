@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="414.71997"
+   height="142.72"
+   viewBox="0 0 414.71997 142.72"
+   sodipodi:docname="ts-8.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1295.8333 V 444.88284 H 0 Z"
+         transform="scale(0.33491962)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1295.8333 V 441.89706 H 0 Z"
+         transform="matrix(0.33491962,0,0,0.33491962,-0.49999999,-0.49999999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1295.8333 V 441.89706 H 0 Z"
+         transform="matrix(0.33491628,0,0,0.33491628,-32.578125,-69)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1295.8333 V 441.89706 H 0 Z"
+         transform="matrix(0.33491628,0,0,0.33491628,-8.5468749,-97.999999)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1295.8333 V 441.89706 H 0 Z"
+         transform="matrix(0.33491628,0,0,0.33491628,-168.64063,-127)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1295.8333 V 441.89706 H 0 Z"
+         transform="matrix(0.33491628,0,0,0.33491628,-150.67187,-23)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="414.71997"
+       height="142.72"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 434 V 149 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95545308)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,35 H 431 V 145 H 1 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.95545308,0,0,0.95545308,0.47772653,0.47772653)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95546262,0,0,0.95546262,31.127181,65.926921)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.6679688 13.335938 20.003906 25.335938 32.003906 38.671875 44.003906 57.351562 70.699219 82.699219 94.699219 101.36719 106.69922 112.03125 124.03125 137.37891 144.04688 157.39453 164.0625 177.41016 190.75781 202.75781 214.75781 221.42578 228.09375 241.44141 254.78906 268.13672 280.13672 292.13672 304.13672 310.80469 316.13672 321.46875 333.46875 346.81641 353.48438"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">If it looks like a duck, quacks like a</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95546262,0,0,0.95546262,8.1662195,93.635336)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.347656 26.695312 38.695312 50.695312 57.363281 64.03125 77.378906 90.726562 104.07422 110.74219 128.07422 141.42188 146.75391 158.75391 170.75391 177.42188 182.75391 188.08594 200.08594 213.43359 220.10156 233.44922 240.11719 253.46484 266.8125 278.8125 290.8125 297.48047 304.14844 309.48047 316.14844 322.81641 336.16406 344.15625 357.50391 370.85156 384.19922 397.54688 402.87891"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">duck, and walks like a duck, it probably</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="matrix(0.95546262,0,0,0.95546262,161.12982,121.34375)"
+       clip-path="url(#clipPath7)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.3320312 17.332031 24 37.347656 44.015625 57.363281 70.710938 82.710938"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">is a duck</tspan></text>
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(0.95546262,0,0,0.95546262,143.96134,21.97564)"
+       clip-path="url(#clipPath8)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 17.332031 30.679688 42.679688 54.679688 60.925781 74.273438 86.273438 99.621094 104.95312 118.30078"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">Duck Typing</tspan></text>
+  </g>
+</svg>
